@@ -1,4 +1,4 @@
-package SRP4;
+package LSP;
 
 public class ProcessadorDePagamento {
 

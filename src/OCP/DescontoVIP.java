@@ -1,4 +1,4 @@
-package SRP3;
+package OCP;
 
 public class DescontoVIP implements EstrategiaDeDesconto {
     @Override
